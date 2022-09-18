@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "39449219358",
+    "project_id": "medical-imaging-app",
+    "storage_bucket": "medical-imaging-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39449219358:android:b36de663b103d747f7790f",
+        "android_client_info": {
+          "package_name": "com.example.medicalimagingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39449219358-5mmrn8qsi0ttru817etjm7b1dbnkg217.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medicalimagingapp",
+            "certificate_hash": "016b264d762f162987bc70c69e198b1dd7a97ef0"
+          }
+        },
+        {
+          "client_id": "39449219358-idlk69789pidt4onj4blnudphvgu1apd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIYBTkltm2C5_Pd27jeeb4avYGuJFqRFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39449219358-idlk69789pidt4onj4blnudphvgu1apd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
